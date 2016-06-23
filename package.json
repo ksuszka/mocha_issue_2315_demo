@@ -1,0 +1,13 @@
+{
+  "name": "mocha_2315_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "2.5.3",
+    "mocha-cli": "1.0.0"
+  }
+}
